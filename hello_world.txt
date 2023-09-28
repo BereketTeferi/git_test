@@ -1,2 +1,3 @@
 Hello world.
 It's me Bereket.
+I am a programmer.
